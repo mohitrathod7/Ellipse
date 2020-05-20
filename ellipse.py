@@ -1,6 +1,3 @@
-
-
-
 import turtle
 import math
 
@@ -36,5 +33,5 @@ def draw(a, b, r):
     myturtle.goto(0, 0)
 
 
-ellipse(100, 50, angle=i, unit="d")
+ellipse(100, 50, angle=360, unit="d")
     
